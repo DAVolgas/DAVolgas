@@ -1,7 +1,7 @@
 Hi 👋 My name is Sergei
 =======================
 
-Junior Data analist
+Junior Data analyst
 -------------------
 
 I am a beginner data analyst. I got my basic knowledge in the specialty from Hexlet courses. I enjoy gaining new knowledge and improving my skills.
