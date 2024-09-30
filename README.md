@@ -9,6 +9,7 @@ I am a beginner data analyst. I got my basic knowledge in the specialty from Hex
 You can contact me at:
 * e-mail: [volgas1974@gmail.com](mailto:volgas1974@gmail.com)
 * telegram: https://t.me/VolgaSV
+* linkedIn: https://www.linkedin.com/in/sergei-volga
 
 -------------------
   ### Skills 
